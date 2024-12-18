@@ -47,7 +47,7 @@ This is my final project for the EEL6825 Pattern Recognition course at the Unive
 
 For more information, please see my paper on this subject:
 
-[Automated Classification of Drum Sounds for Modern Music Production](https://github.com/uf-eel6825-sp23/final-project-code-nathanheck255/PatternRecognitionProjectReport.pdf)
+[Automated Classification of Drum Sounds for Modern Music Production](https://github.com/nathanheck255/MLAudioClassifier/PatternRecognitionProjectReport.pdf)
 
 See my video explanation here:
 https://youtu.be/V31PLUZOtdc
@@ -79,7 +79,7 @@ The two main libraries I used in my model design were Keras for the neural netwo
    git clone https://github.com/uf-eel6825-sp23/final-project-code-nathanheck255.git
    ```
 
-But if you are using HiperGator then you might need to close with ssh:
+But if you are using HiperGator then you might need to clone with ssh:
    ```sh
    git clone git@github.com:uf-eel6825-sp23/final-project-code-nathanheck255.git
    ``` 
