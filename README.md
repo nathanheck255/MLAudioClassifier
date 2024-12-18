@@ -47,7 +47,7 @@ This is my final project for the EEL6825 Pattern Recognition course at the Unive
 
 For more information, please see my paper on this subject:
 
-[Automated Classification of Drum Sounds for Modern Music Production](https://github.com/nathanheck255/MLAudioClassifier/PatternRecognitionProjectReport.pdf)
+[Automated Classification of Drum Sounds for Modern Music Production](https://github.com/nathanheck255/MLAudioClassifier/blob/main/PatternRecognitionProjectReport.pdf)
 
 See my video explanation here:
 https://youtu.be/V31PLUZOtdc
